@@ -1,7 +1,16 @@
 
 public class FunkyClass {
 	
+	static int sCount = 0;
+	
+	String sVal = null;
+	
 	public FunkyClass(String s) {
-		System.out.println(s + ",creating a Funky object");
+		sVal = s;
+		sCount++;
+	}
+	
+	public void print() {
+		System.out.println("Lang " + sCount + ": " + sVal);
 	}
 }
