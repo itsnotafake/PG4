@@ -1,7 +1,7 @@
 
 public class FunkyClass {
 	
-	public FunkyClass() {
-		System.out.println("creating a Funky object");
+	public FunkyClass(String s) {
+		System.out.println(s + ",creating a Funky object");
 	}
 }
