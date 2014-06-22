@@ -8,6 +8,8 @@ public class HelloWorld {
 		System.out.println(s);
 		System.out.println(s1);
 		System.out.println(s2);
+		
+		FunkyClass fc = new FunkyClass();
 	}
 
 }
