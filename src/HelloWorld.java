@@ -7,6 +7,7 @@ public class HelloWorld {
 		    "Hello Cool World",
 		    "Bonjour Tout Le Monde Cool",
 		    "JAJAJA",
+		    "Bonjourno Tutti",
 		    "Haagan Daaz"
 		    };
 		
