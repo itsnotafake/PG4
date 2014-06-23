@@ -6,6 +6,7 @@ public class HelloWorld {
 		String[] howdy = {
 		    "Hello Cool World",
 		    "Bonjour Tout Le Monde Cool",
+		    "JAJAJA",
 		    "Haagan Daaz"
 		    };
 		
